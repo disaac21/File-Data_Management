@@ -1,0 +1,10 @@
+El estudio del movimiento de los objetos
+así como los conceptos relacionados como fuerza
+y energía, forman el campo de la Mecánica.
+La Cinemática es una parte de la Mecánica
+y se encarga de la descripción del movimiento de los objetos
+independientemente de las causas que los producen.
+Para describir el movimiento de una partícula
+en una dimensión es necesario introducir además
+de la posición de dicha partícula cantidades físicas
+tales como: la velocidad y la aceleración.

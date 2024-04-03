@@ -1,0 +1,8 @@
+Un péndulo típico (bola colgada de una cuerda)
+se aproxima tanto más a un péndulo simple cuanto
+más la bola es homogénea, perfectamente esférica
+y la cuerda muy ligera y lo menos extensible posible
+(mantener la masa colgada unos dos días asegura
+bastante bien la inextensibilidad de la cuerdapues
+se le da un tiempo prudencial para que se estire por
+acción del peso de la masa).
